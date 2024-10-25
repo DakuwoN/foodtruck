@@ -1,0 +1,40 @@
+{
+  "locations": [
+    {
+      "id": "1234567890",
+      "name": "Downtown LA",
+      "posts": [
+        {
+          "id": "001",
+          "food_truck": "Tasty Tacos LA",
+          "street": "123 Main St, Los Angeles, CA",
+          "caption": "Serving tacos downtown! #foodtruck #downtownla",
+          "media_url": "https://instagram.com/media/1.jpg",
+          "timestamp": "2024-10-22T12:00:00Z"
+        },
+        {
+          "id": "002",
+          "food_truck": "LA Burger Truck",
+          "street": "456 Spring St, Los Angeles, CA",
+          "caption": "Find us near City Hall today! #foodtruck #laburger",
+          "media_url": "https://instagram.com/media/2.jpg",
+          "timestamp": "2024-10-22T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "0987654321",
+      "name": "Venice Beach",
+      "posts": [
+        {
+          "id": "003",
+          "food_truck": "Beach Bites",
+          "street": "789 Ocean Front Walk, Venice, CA",
+          "caption": "Beachside eats all day! #beachbites #venicefoodtruck",
+          "media_url": "https://instagram.com/media/3.jpg",
+          "timestamp": "2024-10-22T14:00:00Z"
+        }
+      ]
+    }
+  ]
+}
