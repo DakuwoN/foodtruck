@@ -1,0 +1,8 @@
+# Virtual environment
+food_truck/
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
